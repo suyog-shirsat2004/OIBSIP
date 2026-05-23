@@ -30,6 +30,12 @@ Classify emails as spam or ham using NLP and machine learning models like Naive 
 - **Notebook**: [Email_Spam_Detection.ipynb](https://github.com/suyog-shirsat2004/OIBSIP/blob/main/Task-4/Email_Spam_Detection.ipynb)
 - **Live Site**: [suyog-shirsat2004.github.io/OIBSIP/Task-4](https://suyog-shirsat2004.github.io/OIBSIP/Task-4)
 
+### Task 5: Sales Prediction
+Predict product sales based on advertising spend across TV, Radio, and Newspaper channels using Linear Regression, Lasso, Ridge, and Random Forest.
+
+- **Notebook**: [Sales_Prediction.ipynb](https://github.com/suyog-shirsat2004/OIBSIP/blob/main/Task-5/Sales_Prediction.ipynb)
+- **Live Site**: [suyog-shirsat2004.github.io/OIBSIP/Task-5](https://suyog-shirsat2004.github.io/OIBSIP/Task-5)
+
 ---
 
 ## Getting Started
