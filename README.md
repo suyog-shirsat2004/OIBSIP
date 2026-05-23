@@ -18,6 +18,12 @@ Analyze unemployment trends during the Covid-19 period using data visualization 
 - **Notebook**: [Unemployment_Analysis.ipynb](https://github.com/suyog-shirsat2004/OIBSIP/blob/main/Task-2/Unemployment_Analysis.ipynb)
 - **Live Site**: [suyog-shirsat2004.github.io/OIBSIP/Task-2](https://suyog-shirsat2004.github.io/OIBSIP/Task-2)
 
+### Task 3: Car Price Prediction
+Predict the selling price of used cars based on features like year, present price, km driven, fuel type, and transmission using Linear Regression, Lasso, Ridge, and Random Forest.
+
+- **Notebook**: [Car_Price_Prediction.ipynb](https://github.com/suyog-shirsat2004/OIBSIP/blob/main/Task-3/Car_Price_Prediction.ipynb)
+- **Live Site**: [suyog-shirsat2004.github.io/OIBSIP/Task-3](https://suyog-shirsat2004.github.io/OIBSIP/Task-3)
+
 ---
 
 ## Author
