@@ -24,6 +24,12 @@ Predict the selling price of used cars based on features like year, present pric
 - **Notebook**: [Car_Price_Prediction.ipynb](https://github.com/suyog-shirsat2004/OIBSIP/blob/main/Task-3/Car_Price_Prediction.ipynb)
 - **Live Site**: [suyog-shirsat2004.github.io/OIBSIP/Task-3](https://suyog-shirsat2004.github.io/OIBSIP/Task-3)
 
+### Task 4: Email Spam Detection
+Classify emails as spam or ham using NLP and machine learning models like Naive Bayes, Logistic Regression, and SVM.
+
+- **Notebook**: [Email_Spam_Detection.ipynb](https://github.com/suyog-shirsat2004/OIBSIP/blob/main/Task-4/Email_Spam_Detection.ipynb)
+- **Live Site**: [suyog-shirsat2004.github.io/OIBSIP/Task-4](https://suyog-shirsat2004.github.io/OIBSIP/Task-4)
+
 ---
 
 ## Getting Started
