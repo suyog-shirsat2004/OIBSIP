@@ -26,6 +26,40 @@ Predict the selling price of used cars based on features like year, present pric
 
 ---
 
+## Getting Started
+
+### Iris Flower Classification
+
+This project uses Machine Learning to classify iris flowers.
+
+### Technologies Used
+
+* Python
+* Jupyter Notebook
+* Scikit-learn
+
+### Installation
+
+Install Notebook:
+
+```bash
+pip install notebook
+```
+
+### Run Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+OR
+
+```bash
+python -m notebook
+```
+
+---
+
 ## Author
 
 **Suyog Madhav Shirsat**
