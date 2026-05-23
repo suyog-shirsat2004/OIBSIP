@@ -1,7 +1,8 @@
 # Unemployment Analysis with Python
 
-## Live Notebook
-[Open Unemployment_Analysis.ipynb](http://localhost:8888/notebooks/OIBSIP/Task-2/Unemployment_Analysis.ipynb)
+## Live Links
+- **GitHub Notebook**: [Unemployment_Analysis.ipynb](https://github.com/suyog-shirsat2004/OIBSIP/blob/main/Task-2/Unemployment_Analysis.ipynb)
+- **Live Site**: [suyog-shirsat2004.github.io/OIBSIP/Task-2](https://suyog-shirsat2004.github.io/OIBSIP/Task-2)
 
 ## Project Overview
 
