@@ -1,7 +1,7 @@
 # Iris Flower Classification
 
 ## Live Notebook
-[Open Iris_Flower_Classification.ipynb](http://localhost:8888/notebooks/OIBSIP/Task-1/Iris_Flower_Classification.ipynb)
+[Open Iris_Flower_Classification.ipynb](https://github.com/suyog-shirsat2004/OIBSIP/blob/main/Task-1/Iris_Flower_Classification.ipynb)
 
 This project uses Machine Learning to classify iris flowers into:
 
