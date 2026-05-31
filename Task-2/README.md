@@ -39,4 +39,4 @@ Suyog Madhav Shirsat
 
 ## Internship
 
-AICTE OASIS INFOBYTE Data Science Internship
+AICTE OASIS INFOBYTE Data Science Internship.
