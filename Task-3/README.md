@@ -20,7 +20,7 @@ Predict the selling price of used cars based on features like year, present pric
 
 ## Dataset
 
-The dataset contains car listings with features such as:
+The dataset contains car listings with features such as :
 - Car Name, Year, Selling Price, Present Price
 - Kilometers Driven, Fuel Type, Seller Type
 - Transmission, Number of Previous Owners
